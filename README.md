@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Snehasmita Bal</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasmita-bal&label=Profile%20views&color=0e75b6&style=flat" alt="snehasmita-bal" /> </p>
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **snehasmita.bal13@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/661f899a9ef6409b21047ce4](https://app.luminpdf.com/viewer/661f899a9ef6409b21047ce4)
+- 📄 Ask me about Spring , Spring Boot , React , Java
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
