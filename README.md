@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **snehasmita.bal13@gmail.com**
 
-- 📄 Ask me about Spring , Spring Boot , React , Java
+- 📄 Ask me about HTML,CSS,JavaScript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
