@@ -8,7 +8,21 @@
 
 - 📫 How to reach me **snehasmita.bal13@gmail.com**
 
-- 📄 Ask me about HTML,CSS,JavaScript,React,Python,SQL
+- ☁️ Currently learning AWS Cloud, Docker, Kubernetes and DevOps Fundamentals
+- 🐧 Hands-on experience with Linux Administration and Shell Scripting
+- 🚀 Interested in Cloud Computing, DevOps, Containerization and Infrastructure Automation
+- 📄 Ask me about AWS, Linux, Docker, Kubernetes, Python, SQL and Cloud Technologies
+- 🌱 Currently exploring EC2, S3, IAM, VPC, CloudWatch, CloudFormation and Elastic Beanstalk
+  <h3 align="left">Cloud & DevOps Skills:</h3>
+
+- AWS Cloud (EC2, S3, IAM, VPC, RDS, Route 53, ELB, CloudWatch, CloudFormation, Elastic Beanstalk)
+- Linux Administration
+- Docker
+- Kubernetes (Basics)
+- Git & GitHub
+- Shell Scripting
+- Networking Fundamentals (TCP/IP, DNS, HTTP/HTTPS)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +32,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehasmita-bal&show_icons=true&locale=en&layout=compact" alt="snehasmita-bal" /></p>
 
